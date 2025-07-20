@@ -5,7 +5,7 @@
 
 <a href="https://www.linkedin.com/in/agustinsilviorojas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:silvioagustin12345@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@actuariales1374"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" width="40"></a>
+<a href="https://youtube.com/shorts/E4mJ0AFBq1Y?si=s4gy4ucUrY2BRd90"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" width="40"></a>
 <a href="mailto:agustinsilviorojas@outlook.com.ar"><img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-256.png" width="40"></a>
 <hr>
 
